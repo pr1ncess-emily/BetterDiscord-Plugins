@@ -5,7 +5,7 @@
  * @version 0.0.1
  * @authorId 438423191946526720
  * @authorLink https://twitter.com/pr1ncess_emily
- * @source tbd
+ * @source https://github.com/b3nb0t5000/BetterDiscord-Plugins/blob/main/StatusScheduler/status-scheduler.plugin.js
  */
 
 module.exports = class StatusScheduler {
@@ -26,7 +26,7 @@ module.exports = class StatusScheduler {
 
     // Settings panel
     getSettingsPanel() {
-        return "<p> This is my BetterDiscord Status Scheduler plugin that I have no idea how I'm gonna code! </p>";
+        return "This is my BetterDiscord Status Scheduler plugin that I have no idea how I'm gonna code!";
     }
 
     // plugin start
